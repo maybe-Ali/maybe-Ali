@@ -12,7 +12,7 @@ on:
 
 
 
-  # Allow manual triggering of the workflow
+  # Allow manual triggering of the workflows
 
   workflow_dispatch:
 
