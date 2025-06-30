@@ -59,6 +59,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maybe-Ali/maybe-Ali/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/maybe-Ali/maybe-Ali/blob/output/github-snake-dark.svg)
 
 ###
